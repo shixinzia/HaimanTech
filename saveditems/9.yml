@@ -1,0 +1,5 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2865
+  type: DIAMOND_PICKAXE
+  amount: 127

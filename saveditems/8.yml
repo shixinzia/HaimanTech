@@ -1,0 +1,35 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2865
+  type: PAPER
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"称号卡:
+      "},{"bold":true,"italic":false,"color":"dark_gray","text":"[ "},{"bold":true,"italic":false,"color":"gold","text":"虎虎"},{"bold":true,"italic":false,"color":"dark_red","text":"生威
+      "},{"bold":true,"italic":false,"color":"dark_gray","text":"]"}],"text":""}'
+    lore:
+    - '{"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"[
+      "},{"italic":false,"color":"red","text":"称号说明 "},{"italic":false,"color":"white","text":"]"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":">>
+      "},{"bold":false,"italic":false,"color":"green","text":"显示称号："},{"italic":false,"color":"white","text":">
+      "},{"bold":true,"italic":false,"color":"dark_gray","text":"[ "},{"bold":true,"italic":false,"color":"gold","text":"虎虎"},{"bold":true,"italic":false,"color":"dark_red","text":"生威
+      "},{"bold":true,"italic":false,"color":"dark_gray","text":"]"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":">>
+      "},{"bold":false,"italic":false,"color":"green","text":"使用天数："},{"italic":false,"color":"white","text":">
+      "},{"italic":false,"color":"green","text":"永久"}],"text":""}'
+    - '{"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"[
+      "},{"italic":false,"color":"red","text":"称号BUFF "},{"italic":false,"color":"white","text":"]"}],"text":""}'
+    - '{"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":">>
+      "},{"bold":false,"italic":false,"color":"green","text":"无"}],"text":""}'
+    - '{"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":">>"},{"italic":false,"color":"dark_red","text":">>"},{"italic":false,"color":"dark_purple","text":">>
+      "},{"bold":true,"italic":false,"color":"white","text":"点击获取 "},{"bold":false,"italic":false,"color":"gold","text":"<<"},{"italic":false,"color":"dark_red","text":"<<"},{"italic":false,"color":"dark_purple","text":"<<"}],"text":""}'
+    enchants:
+      LURE: 0
+      DURABILITY: 38
+    ItemFlags:
+    - HIDE_ENCHANTS
