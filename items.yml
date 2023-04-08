@@ -949,7 +949,7 @@ ULTIMATE_ENERGY_MOTOR:
   item-name: "&4&l终极能源马达"
   item-lore:
   - "&8这难道就是马达的极限了？"
-  item-id: SKULLCcb94263f712d902dd136251fd4d8d005890c657ab5ee490ccc9bf6ec09b8f57
+  item-id: SKULLccb94263f712d902dd136251fd4d8d005890c657ab5ee490ccc9bf6ec09b8f57
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
