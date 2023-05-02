@@ -4582,9 +4582,9 @@ HAIMAN_WOOD_PEELER:
       speed-in-seconds: 1
       input:
         '1':
-        type: VANILLA
-        id: ACACIA_PLANKS
-        amount: 1
+          type: VANILLA
+          id: ACACIA_PLANKS
+          amount: 1
         '2':
           type: NONE
           id: N/A
